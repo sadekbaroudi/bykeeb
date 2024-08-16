@@ -21,6 +21,7 @@ For this build, you'll need:
 | -------- | ------------------------------------------------------------------- | ------------------------------------------------------------ |
 | 6        | 8mm x 3mm magnets                                                   |                                                              |
 | 1        | Rod with diameter: 4.5mm - 5mm and length: ~95mm                    | The rod should have a mechanism to screw in or cap at either end to allow you to use it as a hinge for the two halves. I don't have any recommendations on where to get this, as I haven't built one myself. |
+| 1        | (alternate to rod above) hinge-center-piece stl                     | If you can print this, it should fit in the center. Not sure how reliable it will be, but worth trying! |
 
 ## Magnet assembly
 
